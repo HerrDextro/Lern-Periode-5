@@ -10,10 +10,13 @@
 
 ## 03.05.2024
 
+- [ ] Modul 106 Aufträge
+- [ ] Modul 106 Portfolio
+
 Heute habe ich meine Planung gemacht. (Ergänze)
 
 ## 10.05.2024
 
- - [ ] Excel dateien mit Templates und tags in SQL setzen.
- - [ ] SQL zwischen Abbas und Neo irgendwie verbinden
- - [ ] SQL Datei und C# verbinden
+- [ ] Excel dateien mit Templates und tags in SQL setzen.
+- [ ] SQL zwischen Abbas und Neo irgendwie verbinden
+- [ ] SQL Datei und C# verbinden
