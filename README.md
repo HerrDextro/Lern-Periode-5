@@ -2,7 +2,7 @@
 
 # Grob Planung:
 
-1: Ich habe bis jetzt keine ungenügende Noten mehr, und hoffentlich ist die noch nicht freigegebene Modulnote 187 auch gut. Am wichtigste ist jetzt die Note für Modul 106, wo ich nocht viel arbeiten muss.
+1: Ich habe bis jetzt keine ungenügende Noten mehr, und hoffentlich ist die noch nicht freigegebene Modulnote 187 auch gut. Am wichtigste ist jetzt die Note für Modul 106, wo ich noch viel arbeiten muss.
 
 2: In der Lernperiode 4 war ich mit Abbas dran, langsam ein KI zu programmieren (eigenes Design damit wir nachdenken müssen), es ist einfach aufzuteilen in viele kleinprojekte, und es gibt viel variation. Diese Mal verbessern woll ich die Geschwindigkeit, weil wir letzte Lernperiode nicht so viel wie erwartet geschafft haben, und wir sollten uns auch nicht zu viel Arbeit geben.
 
@@ -10,10 +10,11 @@
 
 ## 03.05.2024
 
-- [ ] Modul 106 Aufträge
+- [x] SQL Server Tools installieren
+- [x] Modul 106 Aufträge
 - [ ] Modul 106 Portfolio
 
-Heute habe ich meine Planung gemacht. (Ergänze)
+Heute habe ich meine Planung gemacht, und sonst die Aufträge für das SQL Modul 106 weitergearbeitet. Ich habe mit Herr Colic und Abbas ein bisschen die Zukunft geklärt über unseres KI Projekt, und wir habne uns darauf geeinigt, dass wir das Projekt vereinfachen damit wir es in angemessene Zeit fertigmachen können. Eine Website erstelle ich dann irgendwann am Wochenende.
 
 ## 17.05.2024
 
