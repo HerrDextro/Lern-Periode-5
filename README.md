@@ -15,7 +15,7 @@
 
 Heute habe ich meine Planung gemacht. (Ergänze)
 
-## 10.05.2024
+## 17.05.2024
 
 - [ ] Excel dateien mit Templates und tags in SQL setzen.
 - [ ] SQL zwischen Abbas und Neo irgendwie verbinden
