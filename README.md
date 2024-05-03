@@ -12,4 +12,4 @@ Heute habe ich meine Planung gemacht. (Ergänze)
 
 ## 10.05.2024
 
-- [] Hallo
+ -[] Hallo
