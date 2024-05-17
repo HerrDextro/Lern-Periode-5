@@ -24,6 +24,8 @@ Heute habe ich meine Planung gemacht, und sonst die Aufträge für das SQL Modul
 
 Heute habe ich mit VS Code mein Website erstellt. Das Ziel meiner erste Webiste ist es, ein bisschen rum zu spielen und bekannt mit HTML zu werden. Meine Website ist im Moment also ein bisschen hässlich, aber es hat mir ermöglicht ein paar wichtige Sachen zu Üben. Ich kann das nächste Mal an eine Schöne Website anfangen, wo es eine homepage und echte content geben wird, und die sonstige schöne funktionen. 
 
+#Kleine Kommentar über meine Website: irgendwie funktioniert das Formular schon im Browser aber nicht im live server, ich habe noch nicht herausgefunden wieso.
+
 ## 24.05.2024
 
 - [ ] Excel dateien mit Templates und tags in SQL setzen.
