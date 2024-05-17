@@ -14,9 +14,15 @@
 - [x] Modul 106 Aufträge
 - [ ] Modul 106 Portfolio
 
-Heute habe ich meine Planung gemacht, und sonst die Aufträge für das SQL Modul 106 weitergearbeitet. Ich habe mit Herr Colic und Abbas ein bisschen die Zukunft geklärt über unseres KI Projekt, und wir habne uns darauf geeinigt, dass wir das Projekt vereinfachen damit wir es in angemessene Zeit fertigmachen können. Eine Website erstelle ich dann irgendwann am Wochenende.
+Heute habe ich meine Planung gemacht, und sonst die Aufträge für das SQL Modul 106 weitergearbeitet. Ich habe mit Herr Colic und Abbas ein bisschen die Zukunft geklärt über unseres KI Projekt, und wir haben uns darauf geeinigt, dass wir das Projekt vereinfachen damit wir es in angemessene Zeit fertigmachen können. Eine Website erstelle ich dann irgendwann am Wochenende.
 
 ## 17.05.2024
+
+- [x] HTML Website erstellen in VS Code
+- [x] Funktionierendes Formular in Website
+- [x] Redirect zu andere Seite
+
+## 24.05.2024
 
 - [ ] Excel dateien mit Templates und tags in SQL setzen.
 - [ ] SQL zwischen Abbas und Neo irgendwie verbinden
