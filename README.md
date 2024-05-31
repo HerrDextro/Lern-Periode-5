@@ -31,3 +31,9 @@ Heute habe ich mit VS Code mein Website erstellt. Das Ziel meiner erste Webiste 
 - [ ] Excel dateien mit Templates und tags in SQL setzen.
 - [ ] SQL zwischen Abbas und Neo irgendwie verbinden
 - [ ] SQL Datei und C# verbinden
+
+
+## 31.05.2024
+
+Heute habe ich an M122 Poweshell Modul gearbeitet, um mich auf das Powershell Projekt vorzubereiten.
+Ich bin mit Eloi Knecht auf ein Teams Call gegangen und habe mit ihn die Partnerabebeiten gemacht und wir haben uns beidseitig geholfen. Ich werde jetzt noch ein Paar mehr auftrage machen und Github später (noch vor 17.30 updaten).
