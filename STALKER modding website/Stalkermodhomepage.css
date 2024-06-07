@@ -1,0 +1,191 @@
+/* CSS for homepage */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #202020;
+    margin: 0;
+    padding: 0;
+    padding-left: 150px; /*padding so the menu bar doesnt cover content*/
+    transition: padding-left 0.3s ease;
+}
+
+/* The very top bar with utilities */
+.top-nav {
+    background-color: #333;
+    padding: 10px 20px;
+    overflow: auto; /* Clear floats */
+}
+
+/* Apply the custom font to the logo */
+.logo {
+    font-family: 'Stalkerfont', sans-serif; /* Use the custom font with fallback to a generic sans-serif font */
+    color: yellow;
+    font-size: 4em;
+    float: left; /* Float the logo to the left */
+    margin-left: 20px;
+}
+
+.nav-links {
+    float: right; /* Float the links to the left */
+    padding: 5px;
+}
+
+.nav-links a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+/* Regular state of the input field */
+input[type="text"] {
+    padding: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    background-color: #202020; /* Default background color */
+}
+
+/* Hover state of the input field */
+input[type="text"]:hover {
+    background-color: white;
+    color: white; /* Change text color to white for better contrast */
+}
+
+
+
+.side-menu {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 150px; /* Width of the expanded side menu */
+    background-color: #444;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+    overflow-y: auto; /* Make the content scrollable vertically */
+}
+
+
+
+.stalker {
+    text-align: center;
+    padding: 100px 20px;
+    color: white;
+    background-image: url(STALKER_img_misc/BestBackgroundV33.jpg);
+    background-size: cover; /* Ensures the background image covers the entire container */
+    background-position: center; /* Centers the background image horizontally and vertically */
+    height: auto; /* Allows the background image to maintain its original aspect ratio */
+    min-height: 250px;
+    max-height: 300px;
+}
+
+
+
+.block-text {
+    text-align: justify;
+    color: white;
+    padding: 20px;
+}
+
+/* Style the section containing guides */
+.guides {
+    display: flex;
+    flex-direction: column; /* Stack categories vertically */
+    gap: 20px; /* Add some space between categories */
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+/* Style individual categories */
+.category {
+    display: block;
+    border: 1px solid #ddd; /* Optional: add a border for clarity */
+    padding: 10px; /* Optional: add padding for better spacing */
+}
+
+/* Style individual guides within categories */
+.guide {
+    display: flex;
+    flex-direction: column; /* Stack guides vertically */
+    margin-bottom: 10px;
+    cursor: pointer; /* Show pointer cursor on hover */
+}
+
+.guide img {
+    max-width: 100%;
+    height: auto;
+}
+
+.guide h3 {
+    margin: 10px 0;
+}
+
+.guide .overlay {
+    display: none; /* Hide overlay initially */
+}
+
+.guide:hover .overlay {
+    display: block; /* Show overlay on hover */
+}
+
+
+.guides .guide {
+    width: 150px;
+    margin: 10px;
+    text-align: center;
+}
+
+.guides .guide img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10%;
+}
+
+.news {
+    /*font-family: 'Stalkerfont', sans-serif; */
+    color: white;
+    padding: 20px;
+    background-color: #444;
+    font-size: 2em;
+    margin: 20px;
+}
+
+/* below here V1 of the hover over guide desc function */
+.guide {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+    color: white;
+    opacity: 0; /* Initially hidden */
+    transition: opacity 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .guide:hover .overlay {
+    opacity: 1; /* Show on desktop hover */
+  }
+  
+  /* custom font for the monolith logo text*/
+  /* declaring the custom font */
+@font-face {
+    font-family: 'Stalkerfont'; /* Name the font family */
+    src: url('AmazS.T.A.L.K.E.R.v.3.0.ttf'); /* Path to the font file */
+    /* Add additional src declarations for different font formats if necessary */
+}
+

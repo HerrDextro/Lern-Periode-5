@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<!-- HP Metadata and link to CSS file. -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monolith modding</title>
+    <link rel="stylesheet" href="Stalkermodhomepage.css">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+
+<!-- Start of homepage. -->
+<body>
+   <header>
+    <div class="top nav">
+        <div class="logo">MONOLITH </div>
+        <div class="nav-links">
+            <a href="Login">Login</a>
+            <a href="Signup">Signup</a>
+            <input type="text" placeholder="Search">
+        </div>
+    </div>
+   </header>
+   <!-- Side menu (vertical bar) -->
+   <aside class="side-menu">
+    <!-- Side menu content in here, later maybe make scrollable -->
+   </aside>
+   
+   <!-- Make main part of webpage -->
+   <main>
+    <section class="stalker">
+        <h1>Tutorials, modding guides and more</h1>
+    </section>
+    <section class="intro">
+        <p class="block-text">Monolith modding is a website for all the modding enthusiasts in the STALKER community. It contains extensive guides for many topics helping YOU bring your imagination to life and make your first S.T.A.L.K.E.R. mods. All the guides are free to use and replicate, and discussing the mods in the @discussion page is highly encouraged. Happy modding!</p>
+    </section>
+
+    <section class="guides">
+        <div class="category">
+            <h2>Information</h2>
+            <div class="guide" id="topic9" onclick="navigateToTopic('topic9')">
+                <img src="STALKER_img_misc/stalkerlogo.png" alt="stalkerlogo">
+                <h3>Information about S.T.A.L.K.E.R.</h3>
+                <div class="overlay">
+                    <p>Here a small demonstration of how this could work, it even works on mobile!</p>
+                </div>
+            </div>
+            <div class="guide" id="topic8" onclick="navigateToTopic('topic8')">
+                <img src="STALKER_img_misc/1538855314_x-ray_engine.jpg" alt="Xrayfamimiliarisation">
+                <h3>Xray game engine</h3>
+                <div class="overlay">
+                    <p>Here a small demonstration of how this could work, it even works on mobile!</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="category">
+            <h2>Beginner</h2>
+            <div class="guide" id="topic2" onclick="navigateToTopic('topic2')">
+                <img src="STALKER_img_misc/MODDB.jpeg" alt="Installing modpacks">
+                <h3>Installing modpacks</h3>
+                <div class="overlay">
+                    <p>Here a small demonstration of how this could work, it even works on mobile!</p>
+                </div>
+            </div>
+            <div class="guide" id="topic6" onclick="navigateToTopic('topic6')">
+                <img src="STALKER_img_misc/editing game files.png" alt="functionalityediting">
+                <h3>Editing game files</h3>
+                <div class="overlay">
+                    <p>Here a small demonstration of how this could work, it even works on mobile!</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="category">
+            <h2>Game Asset Creation</h2>
+            <div class="guide" id="topic1" onclick="navigateToTopic('topic1')">
+                <img src="STALKER_img_misc/STALKEROGF file.png" alt="OGFcreation">
+                <h3>Creating OGF files</h3>
+                <div class="overlay">
+                    <p>Here a small demonstration of how this could work, it even works on mobile!</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="category">
+            <h2>Texturing/Animations/Sound</h2>
+            <!-- INSERT GUIDE -->
+        </div>
+
+        <div class="category">
+            <h2>Scripting/Game Functions</h2>
+            <div class="guide" id="topic7" onclick="navigateToTopic('topic7')">
+                <img src="STALKER_img_misc/OverwritingV2.jpg" alt="ModproductionOverwrite">
+                <h3>Modpack making and overwriting</h3>
+                <div class="overlay">
+                    <p>Here a small demonstration of how this could work, it even works on mobile!</p>
+                </div>
+            </div>
+            <div class="guide" id="topic8" onclick="navigateToTopic('topic8')">
+                <img src="STALKER_img_misc/wrenchV1.png" alt="gameNGmechs">
+                <h3>Change of game engine mechanics</h3>
+                <div class="overlay">
+                    <p>Here a small demonstration of how this could work, it even works on mobile!</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="category">
+            <h2>Game Balancing and Mechanics</h2>
+            <div class="guide" id="topic5" onclick="navigateToTopic('topic5')">
+                <img src="STALKER_img_misc/Stalkerfactions.png" alt="Gamemechbalancing">
+                <h3>Game mechanics and balancing</h3>
+                <div class="overlay">
+                    <p>Here a small demonstration of how this could work, it even works on mobile!</p>
+                </div>
+            </div>
+            <div class="guide" id="topic4" onclick="navigateToTopic('topic4')">
+                <img src="STALKER_img_misc/npcbehaviordiagram.png" alt="npcbehaviourai">
+                <h3>Creating NPC behavior sets</h3>
+                <div class="overlay">
+                    <p>Here a small demonstration of how this could work, it even works on mobile!</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="category">
+            <h2>User Interface/HUD</h2>
+            <!-- INSERT GUIDE -->
+        </div>
+
+        <div class="category">
+            <h2>Data Structures and File Management</h2>
+            <!-- INSERT GUIDE -->
+        </div>
+    </section>
+</main>
+
+<script src="menusidebarJS.js"></script>
+</body>
+</html>
