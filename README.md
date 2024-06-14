@@ -44,7 +44,7 @@ Heute habe ich an mein Website für das Modul 293 weitergearbeitet. Ich habe der
 
 - [x] CR free images
 - [x] Content 
-- [ ] navigation sidebar
+- [x] navigation sidebar
 
 ## 14.06.2024
 
@@ -53,3 +53,4 @@ Heute habe ich an mein Website weitergearbeitet und ein paar der Topics geschrie
 - [ ] Search bar & side menu funktionalität
 - [ ] HTML testen auf responsiveness
 - [ ] Login/signup falls vorheriges gut ist
+- [ ] interactive OGF 3d model
