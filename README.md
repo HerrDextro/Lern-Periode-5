@@ -36,4 +36,20 @@ Heute habe ich mit VS Code mein Website erstellt. Das Ziel meiner erste Webiste 
 ## 31.05.2024
 
 Heute habe ich an M122 Poweshell Modul gearbeitet, um mich auf das Powershell Projekt vorzubereiten.
-Ich bin mit Eloi Knecht auf ein Teams Call gegangen und habe mit ihn die Partnerabebeiten gemacht und wir haben uns beidseitig geholfen. Ich werde jetzt noch ein Paar mehr auftrage machen und Github später (noch vor 17.30 updaten).
+Ich bin mit Eloi Knecht auf ein Teams Call gegangen und habe mit ihn die Partnerabebeiten gemacht und wir haben uns beidseitig geholfen. Ich werde jetzt noch ein Paar mehr auftrage machen und Github später (noch vor 17.30 updaten). 
+
+## 07.06.2024
+
+Heute habe ich an mein Website für das Modul 293 weitergearbeitet. Ich habe der Homepage neu strukturiert und alle Categorien von Topics reingemacht. Auf das nächste Mal muss ich copyright free Material machen damit ich nicht angezeigt werde sobald es online ist.
+
+- [x] CR free images
+- [x] Content 
+- [ ] navigation sidebar
+
+## 14.06.2024
+
+Heute habe ich an mein Website weitergearbeitet und ein paar der Topics geschrieben, damit ich mein search bar und navigation menu besser testen kann. Ich habe auch mit KI versucht ein side menu zu machen aber das funktioniert noch nicht. Auf das nächste Mal muss ich der search bar und das side Menu funktionierend machen und danach woll ich ein system machen damit users sich einloggen können. Zuerst muss ich aber testen wie responsiv die Website.
+
+- [ ] Search bar & side menu funktionalität
+- [ ] HTML testen auf responsiveness
+- [ ] Login/signup falls vorheriges gut ist
