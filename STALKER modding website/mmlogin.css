@@ -1,0 +1,39 @@
+/* Styles for login modal */
+.login-modal {
+    display: none; /* Hide the modal by default */
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.login-modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 300px;
+}
+
+.close {
+    float: right;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: #000;
+}
+
+.login-modal h2 {
+    margin-bottom: 20px;
+}
+
+/* Styles for login/signup links */
+.signup-link {
+    color: blue;
+    cursor: pointer;
+}
