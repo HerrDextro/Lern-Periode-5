@@ -50,7 +50,20 @@ Heute habe ich an mein Website für das Modul 293 weitergearbeitet. Ich habe der
 
 Heute habe ich an mein Website weitergearbeitet und ein paar der Topics geschrieben, damit ich mein search bar und navigation menu besser testen kann. Ich habe auch mit KI versucht ein side menu zu machen aber das funktioniert noch nicht. Auf das nächste Mal muss ich der search bar und das side Menu funktionierend machen und danach woll ich ein system machen damit users sich einloggen können. Zuerst muss ich aber testen wie responsiv die Website.
 
+Definitiv:
+- [x] Blender OGF extension addon installieren und configurieren
+- [x] PS script fur file conversion vie Blender
+Optional
 - [ ] Search bar & side menu funktionalität
 - [ ] HTML testen auf responsiveness
 - [ ] Login/signup falls vorheriges gut ist
 - [ ] interactive OGF 3d model
+
+# 21.06.2024
+Heute habe ich mich viel geärgert und versucht ein Addon auf Blender zu installieren welche nicht die richtige file structure hatte. Es hat schlussednlich doch funktioniert indem ich manuel die richtige Ordner in die Program files reingemacht habe. Dann musste ich der Addon kofigurieren damit es textures aus der richtige Ordner anwendet und sie korrekt auf das Model tut.
+
+- [ ] NLP "AI" response library im Code reintun
+- [ ] Mit Abbas ein Debug menu machen für der AI
+
+
+
