@@ -54,7 +54,7 @@ Definitiv:
 - [x] Blender OGF extension addon installieren und configurieren
 - [x] PS script fur file conversion vie Blender
 Optional
-- [ ] Search bar & side menu funktionalität
+- [x] Search bar & side menu funktionalität
 - [ ] HTML testen auf responsiveness
 - [ ] Login/signup falls vorheriges gut ist
 - [ ] interactive OGF 3d model
@@ -65,5 +65,7 @@ Heute habe ich mich viel geärgert und versucht ein Addon auf Blender zu install
 - [ ] NLP "AI" response library im Code reintun
 - [ ] Mit Abbas ein Debug menu machen für der AI
 
+# 28.06.2024
 
+Heute habe ich meine Website mehr responsive gemacht und ein paar neue Fehler behoben. dann habe ich zwei reflexionen geschrieben, eine zur LP und der andere als Abschlussreflexion. Ich habe meine Github Seiten geputzt und Projektseiten erstellt, da meine LP Seiten als Thema immer mehr als ein Projekt gehabt haben, und es nicht gut gehen wurde sie Umzubenennen und zu putzen.
 
