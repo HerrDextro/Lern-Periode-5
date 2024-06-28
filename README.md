@@ -69,3 +69,11 @@ Heute habe ich mich viel geärgert und versucht ein Addon auf Blender zu install
 
 Heute habe ich meine Website mehr responsive gemacht und ein paar neue Fehler behoben. dann habe ich zwei reflexionen geschrieben, eine zur LP und der andere als Abschlussreflexion. Ich habe meine Github Seiten geputzt und Projektseiten erstellt, da meine LP Seiten als Thema immer mehr als ein Projekt gehabt haben, und es nicht gut gehen wurde sie Umzubenennen und zu putzen.
 
+# Jahresende Reflexion
+
+Dieses Jahr im Lernatelier war voller Herausforderungen und Erfolge. Am Anfang hatte ich Schwierigkeiten, mich zu konzentrieren. Es fiel mir schwer, meinen Fokus zu finden, und ich fühlte mich oft unproduktiv. Dann begann ich ein sehr coolesProjekt: die Programmierung einer regelbasierten Künstlichen Intelligenz in C#. Dieses Projekt hat mich sehr Motiviert.
+Trotz dieser neu gewonnenen Motivation nutzte ich das Lernatelier über eine längere Zeit hauptsächlich, um an meinen Schulmodulen zu arbeiten. Diese Prioritätensetzung war notwendig, aber es bedeutete, dass ich weniger Zeit für mein KI-Projekt hatte als ursprünglich geplant.
+
+Was ich in diesem Jahr besonders geschätzt habe, war die angenehme Arbeitsatmosphäre im Lernatelier. Die ruhige und fokussierte Umgebung half mir, mich besser zu konzentrieren und produktiv zu arbeiten. Zudem stand mir immer ausreichend Zeit zur Verfügung, um  die Themen anzuschauen, die mich interessierten. Es war auch gut, wenn auch immer nötig einfach Hilfe zu bekommen 
+
+Insgesamt war dieses Jahr im Lernatelier für mich eine tolle Zeit. 
